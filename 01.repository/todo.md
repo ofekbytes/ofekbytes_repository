@@ -8,6 +8,9 @@
 https://github.com/ofekbytes/javaScriptMethod.git
 ```
 
+```
+https://github.com/ofekbytes/java-small-method.git
+```
 
 ----------------------
   
